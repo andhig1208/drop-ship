@@ -1,0 +1,8 @@
+{
+  "name": "Kova Studio",
+  "description": "Ergonomic recovery hardware dropshipping storefront with integrated social media advertising, SEO hub, unit economics research, and autonomous fulfillment operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
